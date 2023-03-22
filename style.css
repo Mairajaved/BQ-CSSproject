@@ -114,3 +114,26 @@ img{
 	display: block;
 	border-radius: 20px 20px 0 0;
 }
+/* Contact us */
+.form_wrapper .form_input {
+  margin-bottom: 15px;
+}
+
+.form_wrapper .form_input input[type="text"] {
+  width: 250px;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+}
+
+.form_wrapper .form_input textarea {
+  width: 250px;
+  padding: 12px 20px;
+  height: 80px;
+  resize: none;
+  border: 1px solid #ccc;
+}
+.btn{
+	padding: 10px;
+	border-radius: 20px;
+}
+
