@@ -143,4 +143,22 @@ img{
 	padding: 10px;
 	border-radius: 20px;
 }
+/* arrow */
+.arrow {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 40px;
+  height: 40px;
+  line-height: 50px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+}
 
+.arrow img {
+  width: 20px;
+  height: 20px;
+  z-index: 1;
+}
